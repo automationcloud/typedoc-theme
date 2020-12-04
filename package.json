@@ -1,0 +1,25 @@
+{
+  "name": "@automationcloud/typedoc-theme",
+  "version": "1.0.0",
+  "description": "TypeDoc Theme for Automation Cloud",
+  "main": "index.js",
+  "scripts": {
+  },
+  "files": [
+      "theme/**/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/automationcloud/typedoc-theme.git"
+  },
+  "keywords": [
+    "typedoc",
+    "theme"
+  ],
+  "author": "ubio",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/automationcloud/typedoc-theme/issues"
+  },
+  "homepage": "https://github.com/automationcloud/typedoc-theme#readme"
+}
